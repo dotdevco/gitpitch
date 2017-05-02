@@ -1,6 +1,34 @@
-![LOGO](https://i2.wp.com/dotdev.co/wp-content/uploads/2017/04/about-dotdev.png?w=1024&ssl=1)
+---?image=https://i2.wp.com/dotdev.co/wp-content/uploads/2017/04/about-dotdev.png
 
-#### Welcome to the slide deck!
+---
+
+## Welcome to gitpitch
+
+### How about some Laravel?
+
+```php
+<?php
+
+class Idea extends Eloquent
+{
+
+    /**
+     * Dreaming of something more?
+     *
+     * @with  Laravel
+     */
+     public function create()
+     {
+        // Have a fresh start...
+     }
+
+}
+```
+
+---
+
+### Or maybe a heading?
+
 <br>
 <span style="color:gray">Markdown Presentations For Everyone</span>
 <br>
